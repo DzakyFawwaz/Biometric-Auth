@@ -1,4 +1,4 @@
-# fingerprint_auth
+# bio-auth
 
 A new Flutter project.
 
